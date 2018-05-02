@@ -1,10 +1,7 @@
 
 import java.util.*;
 
-/** ceic est un tes
- *  CECI EST INTOLERABLE MR WAROBBY VOUS ETES EXCLU DU GROUPE 
- non
- ok
+/** bonjour
  */
 public class carte {
 
