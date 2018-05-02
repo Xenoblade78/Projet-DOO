@@ -22,7 +22,7 @@ public class carte {
     /**
      * 
      */
-    private float solde;
+    private float de;
 
     /**
      * 
