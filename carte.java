@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-/** ceic est un test
+/** ceic est un tes
  * 
  */
 public class carte {
