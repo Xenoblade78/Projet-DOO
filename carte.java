@@ -2,6 +2,8 @@
 import java.util.*;
 
 /** bonjour
+
+HS IS OVERRATED
  */
 public class carte {
 
