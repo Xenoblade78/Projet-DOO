@@ -17,7 +17,7 @@ public class carte {
     /**
      * 
      */
-    private string nero;
+    private string numero;
 
     /**
      * 
