@@ -3,8 +3,6 @@ import java.util.*;
 
 /** bonjour
 
-HS IS OVERRATED
-OU PAS MDR
  */
 public class carte {
 
@@ -22,7 +20,7 @@ public class carte {
     /**
      * 
      */
-    private float de;
+    private float solddddde;
 
     /**
      * 
