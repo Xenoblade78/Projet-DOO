@@ -4,6 +4,7 @@ import java.util.*;
 /** bonjour
 
 HS IS OVERRATED
+OU PAS MDR
  */
 public class carte {
 
