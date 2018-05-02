@@ -9,7 +9,7 @@ OU PAS MDR
 public class carte {
 
     /**
-     * Default constructor
+     * bbbbb
      */
     public carte() {
     }
@@ -22,7 +22,7 @@ public class carte {
     /**
      * 
      */
-    private float solde;
+    private float de;
 
     /**
      * 
